@@ -93,8 +93,8 @@ The dashboard was assembled using PivotCharts and organized into a single, cohes
 ### Interactivity
 - A **store location slicer** was added and connected to all PivotTables and charts  
 - The slicer allows users to filter results by location or view performance across **all locations simultaneously**
-- 
-<img width="554" height="228" alt="Dashboard" src="https://github.com/user-attachments/assets/289941ab-fa8c-4273-b71a-4d6689f82d7b" />
+
+<img width="554" height="225" alt="Dashboard" src="https://github.com/user-attachments/assets/35253a97-d63c-404e-97f1-86ffc8c4273b" />
 
 ---
 
