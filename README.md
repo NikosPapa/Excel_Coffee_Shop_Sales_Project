@@ -43,9 +43,9 @@ An existing fictional dataset was used for this project.
 
 Data preparation included:
 
-- Validation of record counts and field completeness  
-- Verification of data types for dates, times, quantities, and prices  
-- Creation of calculated fields to support time-based and revenue analysis  
+- Validation of record counts and field completeness.  
+- Verification of data types for dates, times, quantities, and prices.  
+- Creation of calculated fields to support time-based and revenue analysis.  
 
 ### Calculated Columns
 
@@ -92,7 +92,7 @@ The dashboard was assembled using PivotCharts and organized into a single, cohes
 
 ### Interactivity
 - A **store location slicer** was added and connected to all PivotTables and charts  
-- The slicer allows users to filter results by location or view performance across **all locations simultaneously**  
+- The slicer allows users to filter results by location or view performance across **all locations simultaneously**
 
 ---
 
