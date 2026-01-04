@@ -104,7 +104,7 @@ The dashboard was assembled using PivotCharts and organized into a single, cohes
 
 This interactive Excel dashboard provides a comprehensive view of coffee shop sales performance across **all store locations** in New York City. By transforming transaction-level data into analysis-ready features and leveraging PivotTables, PivotCharts, and slicers, the project uncovers meaningful patterns in revenue trends, customer behavior, and product performance.
 
-Revenue demonstrates a steady upward trend across the observed months, indicating increasing customer demand and overall business growth. Transaction activity varies by day of week, with weekdays—particularly later in the workweek—showing slightly higher volumes than weekends, suggesting a strong commuter-driven customer base.
+Revenue demonstrates a steady upward trend across the observed months, indicating increasing customer demand and overall business growth. Transaction activity varies by day of week, with weekdays, particularly later in the workweek, showing slightly higher volumes than weekends, suggesting a strong commuter-driven customer base.
 
 Hourly transaction analysis highlights a clear concentration of sales during morning hours, consistent with typical coffee consumption habits. Activity gradually declines as the day progresses.
 
